@@ -4,10 +4,10 @@ This monorepo provides a boilerplate for projects using [Nuxt](https://nuxt.com/
 
 It includes:
 
-- 📦 **Monorepo structure** for Nuxt and Sanity
-- 🌐 [Nuxt UI](https://ui.nuxt.com/), [Nuxt Sitemap](https://github.com/nuxt-modules/sitemap), and [Nuxt Robots](https://github.com/nuxt-modules/robots) modules preconfigured
-- ⚡ Seamless **integration** between Nuxt and Sanity
-- 🧩 Easy local development and deployment setup
+-   📦 **Monorepo structure** for Nuxt and Sanity
+-   🌐 [Nuxt UI](https://ui.nuxt.com/), SEO ready, [Nuxt Image](https://image.nuxt.com)
+-   ⚡ Seamless **integration** between Nuxt and Sanity
+-   🧩 Easy local development and deployment setup
 
 ---
 
@@ -15,14 +15,15 @@ It includes:
 
 ### ✅ Nuxt
 
-- Powered by [Nuxt UI](https://ui.nuxt.com/)
-- [Nuxt Sitemap](https://github.com/nuxt-modules/sitemap) for automatic sitemap generation
-- [Nuxt Robots](https://github.com/nuxt-modules/robots) for SEO-friendly robots.txt
+-   Powered by [Nuxt UI](https://ui.nuxt.com/)
+-   [Nuxt Image](https://image.nuxt.com) for image optimization
+-   [Nuxt Sitemap](https://github.com/nuxt-modules/sitemap) for automatic sitemap generation
+-   [Nuxt Robots](https://github.com/nuxt-modules/robots) for SEO-friendly robots.txt
 
 ### ✅ Sanity
 
-- Structured content editor with custom schema
-- Ready for live preview and GROQ querying
+-   Structured content editor with custom schema
+-   Ready for live preview and GROQ querying
 
 ---
 

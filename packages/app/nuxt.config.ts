@@ -6,6 +6,7 @@ export default defineNuxtConfig({
 		"@nuxtjs/sanity",
 		"@nuxtjs/robots",
 		"@nuxtjs/sitemap",
+		"@nuxt/image",
 	],
 	sanity: {
 		projectId: process.env.SANITY_STUDIO_PROJECTID,
